@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:demo="http://jbeap11984.issues.wildfly.org/">
+  <soapenv:Header />
+  <soapenv:Body>
+    <demo:hello>
+      <arg0>Frank</arg0>
+      <arg1>100</arg1>
+    </demo:hello>
+  </soapenv:Body>
+</soapenv:Envelope>

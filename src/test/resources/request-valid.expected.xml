@@ -1,0 +1,1 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns2:helloResponse xmlns:ns2="http://jbeap11984.issues.wildfly.org/"><return>Hello Frank 100 times</return></ns2:helloResponse></soap:Body></soap:Envelope>

@@ -1,0 +1,9 @@
+<jboss-deployment-structure>
+  <deployment>
+    <dependencies>
+      <module name="org.apache.cxf" />
+      <module name="org.apache.cxf.impl" />
+      <module name="org.jboss.ws.cxf.jbossws-cxf-server" />
+    </dependencies>
+  </deployment>
+</jboss-deployment-structure>

@@ -1,0 +1,10 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:demo="http://jbeap11984.issues.wildfly.org/">
+  <soap:Header />
+  <soap:Body>
+    <demo:hello>
+      <arg0>Frank</arg0>
+      <arg1>100</arg1>
+      <unexpected>dummy</unexpected>
+    </demo:hello>
+  </soap:Body>
+</soap:Envelope>

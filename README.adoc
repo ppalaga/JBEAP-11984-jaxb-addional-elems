@@ -1,0 +1,5 @@
+= CXF on WildFly with a custom ValidationEventHandler that ignores unexpected elements
+
+* Inspired by https://github.com/kylape/support-examples/tree/master/jaxws/customValidationNoSpring.war
+* With proper tests
+* Run e.g. with `mvn clean test`
